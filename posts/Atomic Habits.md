@@ -1,0 +1,28 @@
+# Atomic Habits  
+*James Clear*  
+
+Apa perubahan positif yang ingin kamu lakukan dalam hidup? Mungkin kamu ingin makan lebih sehat, baca lebih banyak buku, belajar bahasa baru, atau menguasai alat musik klarinet. Tapi membuat perubahan itu dan konsisten melakukannya ternyata tidak mudah. Cuma niat makan salad atau baca buku tidak cukup. Di sinilah kebiasaan berperan. Buku ini akan menunjukkan bahwa perubahan besar nggak harus besar-besaran. Cukup ubah perilaku sedikit demi sedikit, ulangi terus, dan kebiasaan itu bisa membawa hasil besar.  
+
+### Kebiasaan kecil bisa memberi dampak besar yang mengejutkan pada hidupmu.  
+Bayangkan pesawat yang mau terbang dari Los Angeles ke New York tapi pilotnya salah mengubah arah sedikit saja, misalnya 3,5 derajat. Perubahan kecil itu nggak terasa langsung, tapi setelah perjalanan jauh, pesawat malah mendarat di Washington DC. Sama seperti kebiasaan, perubahan kecil yang kamu lakukan sehari-hari mungkin nggak kelihatan hasilnya langsung, tapi kalau diulang terus, dampaknya bisa besar. Jadi kalau kamu merasa usaha kamu belum terlihat hasilnya, coba fokus pada arah yang benar daripada hasil instan.  
+
+### Kebiasaan adalah perilaku otomatis yang kita pelajari dari pengalaman.  
+Kamu nggak mikir pas mau nyalain lampu di kamar gelap, otomatis tangan kamu nyari saklar. Itu adalah kebiasaan, perilaku yang sudah sering kamu ulang sampai jadi otomatis. Ilmuwan Edward Thorndike pernah uji coba dengan kucing yang belajar membuka kotak lewat tuas. Kucing yang sering latihan jadi cepat tahu caranya tanpa bingung lagi. Jadi, perilaku yang menghasilkan hasil baik akan diulang terus sampai jadi otomatis. Kebiasaan punya empat bagian: isyarat (cue), keinginan (craving), respons (response), dan hadiah (reward). Misal kamu minum kopi pagi, bangun tidur jadi isyarat, kamu pengen segar jadi keinginan, buat kopi jadi respons, dan rasa segar jadi hadiah.  
+
+### Membuat kebiasaan baru butuh isyarat yang jelas dan rencana tindakan.  
+Kalau kamu mau belajar gitar tapi susah rajin latihan, coba taruh gitar di tempat yang gampang dilihat supaya kamu inget dan tergoda untuk main. Ini namanya membuat isyarat tidak terlewatkan. Selain itu, gunakan juga *implementation intentions* yaitu rencana spesifik kapan dan di mana kamu akan latihan. Misal, "Senin, Rabu, Jumat jam 7 malam aku akan latihan gitar satu jam." Contoh nyata: seorang dokter di Boston mengganti posisi minuman di kantin rumah sakit sehingga air putih lebih mudah diambil daripada soda, hasilnya orang lebih banyak minum air putih tanpa disuruh langsung.  
+
+### Manusia termotivasi oleh harapan hadiah, jadi buat kebiasaan menarik supaya kamu tetap melakukannya.  
+Sebuah eksperimen menunjukkan bahwa otak melepaskan dopamine saat kita mengantisipasi sesuatu yang menyenangkan, bukan hanya saat mendapatkannya. Makanya kalau kamu kaitkan kebiasaan yang penting tapi kurang menyenangkan dengan hal yang kamu suka, kamu akan lebih mudah melakukannya. Contohnya seorang mahasiswa yang menghubungkan latihan sepeda statis dengan nonton Netflix: hanya bisa nonton Netflix kalau dia bersepeda dengan kecepatan tertentu. Kalau kamu mau olahraga tapi suka gosip selebritas, coba dengar podcast gosip saat olahraga.  
+
+### Kalau mau membangun kebiasaan baru, buatlah sesederhana dan semudah mungkin.  
+Kebiasaan mudah lebih mungkin jadi rutinitas dibanding yang sulit. Misalnya James Clear punya istri yang selalu kirim kartu ucapan karena dia simpan kartu-kartu siap pakai yang sudah dikelompokkan sesuai acara supaya gampang dipakai. Kamu juga bisa kurangi hambatan untuk melakukan kebiasaan baik dan tingkatkan hambatan untuk kebiasaan buruk. Contoh lain adalah aturan dua menit: buat kebiasaan baru sekecil mungkin dulu, misal baca 2 halaman buku tiap malam daripada langsung janji baca satu buku seminggu. Setelah mulai, biasanya kamu akan lanjut ke langkah berikutnya dengan sendirinya.  
+
+### Membuat kebiasaan langsung terasa memuaskan penting untuk perubahan perilaku yang efektif.  
+Peneliti Stephen Luby berhasil menurunkan penyakit dengan cara sederhana yaitu memperkenalkan sabun wangi dan nyaman agar orang suka cuci tangan dengan sabun itu. Kebiasaan baik harus ada rasa puasnya sekarang juga agar tetap dilakukan, sebab otak manusia terbiasa dengan hasil langsung bukan hasil jangka panjang. Contohnya kalau mau hemat dan makan sehat, coba buat rekening tabungan khusus dan setiap kali nggak jajan di luar, masukin uang ke rekening itu supaya dapat rasa puas instan melihat uang bertambah.  
+
+### Buat kerangka supaya kebiasaanmu tetap berjalan dengan pelacak dan kontrak kebiasaan.  
+Salah satu cara agar kebiasaan bertahan lama adalah melacaknya secara rutin seperti Benjamin Franklin yang mencatat kemajuan 13 kebajikannya setiap hari. Kamu bisa pakai kalender atau buku harian untuk mencoret hari-hari ketika berhasil menjalankan kebiasaan baru. Selain itu, buat kontrak dengan konsekuensi jika gagal menjalankan kebiasaan supaya ada motivasi tambahan, misal harus bayar denda atau malu kalau tidak konsisten. Ini memanfaatkan rasa tanggung jawab sosial agar tetap termotivasi.  
+
+### Ringkasan akhir  
+Perubahan kecil dalam perilaku tidak akan mengubah hidupmu dalam semalam, tapi jika dilakukan terus dan jadi kebiasaan akan membawa perubahan besar. Kuncinya bukan revolusi besar tapi membangun sistem kebiasaan positif yang bersama-sama menghasilkan hasil luar biasa. Salah satu tips terakhir adalah menggunakan *habit stacking*: tumpuk kebiasaan baru di atas kebiasaan lama yang sudah rutin kamu lakukan. Misalnya kalau mau mulai meditasi tapi susah cari waktu, coba meditasi setiap habis minum kopi pagi seperti rutinitas harianmu yang sudah ada.

@@ -1,0 +1,31 @@
+# The Subtle Art of Not Giving a F*ck
+*Mark Manson*
+
+Kita hidup di era dengan banyak kesempatan. Mau pilih karier, pasangan, atau sumber berita terbaik, semua ada banyak pilihannya. Tapi kenapa hidup nggak selalu bahagia? Banyak yang stres dan nggak puas, padahal seharusnya punya segalanya! Alasannya, kita pengen ngelakuin semuanya sekaligus. Akhirnya fokus kita terbagi dan kita capek sendiri. Jadi, apa solusinya? Cari tahu apa yang benar-benar penting buat kamu dan fokuslah di situ. Sisanya? Jangan dipikirin! Buku ini bakal bantu kamu nemuin apa aja hal penting yang layak dipedulikan. Kamu juga bakal belajar kenapa nggak usah bandingin diri sama Metallica, kenapa kritik diri itu penting, dan kenapa kematian harus jadi akhir buat kita semua.
+
+### Apapun yang kamu lakukan dalam hidup pasti perjuangan, jadi cari perjuangan yang cocok buat kamu.
+Apa sebenarnya tujuan utama hidup kamu? Jawabannya nggak gampang. Banyak orang pengen bahagia, punya keluarga yang sayang, dan pekerjaan yang disenangi, tapi itu terlalu umum dan nggak cukup bikin kita berjuang. Kalau nggak ada tujuan yang jelas, kamu gampang menyerah saat susah. Misalnya, pengen jadi CEO kedengarannya keren, tapi jadi CEO itu kerja keras banget dan penuh tekanan. Kalau kamu nggak bener-bener niat, susah sukses. Karena perjuangan nggak bisa dihindari, kamu harus cari sesuatu yang kamu suka dan rela berjuang buat itu. Penulis sendiri suka nulis soal kencan, akhirnya bikin blog yang sukses. Jadi jangan cari hidup mudah tanpa masalah, tapi cari tujuan yang bikin kamu mau berjuang dan bilang "tidak" pada hal-hal yang nggak bikin kamu bahagia.
+
+### Penderitaan bisa bawa hal bagus, tapi kalau nilai hidupmu salah, kamu nggak akan bahagia.
+Contoh sukses lewat perjuangan ada di dunia seni. Misalnya Dave Mustaine yang dipecat dari band sebelum terkenal. Dia kerja keras bikin band baru Megadeth yang sukses besar, tapi dia tetap nggak bahagia karena terus bandingin dirinya sama Metallica, band lamanya yang lebih sukses. Ini bahaya kalau kita ukur keberhasilan dengan bandingkan diri sama orang lain. Contoh lain Pete Best, mantan anggota The Beatles yang juga dipecat tapi dia ubah nilai hidupnya jadi lebih fokus ke keluarga dan kebahagiaan pribadi, bukan cuma keberhasilan musik. Jadi nilai-nilai hidup yang tepat lebih penting daripada cuma sukses buat bahagia.
+
+### Banyak orang fokus pada nilai-nilai yang salah, jadi penting banget cari nilai baik yang bisa dipercaya.
+Kita harus hati-hati dengan nilai-nilai jelek seperti cuma mengejar kesenangan atau harta materi. Orang yang mengutamakan kesenangan seringkali justru cemas dan depresi. Begitu juga yang terobsesi dengan kekayaan materi malah bisa kehilangan kebahagiaan sejati. Nah, supaya nggak terjebak nilai-nilai buruk itu, kita harus cari nilai yang nyata, bermanfaat buat orang lain, dan bisa kita kontrol sendiri. Contohnya kejujuran, kreativitas, kemurahan hati, dan kerendahan hati.
+
+### Kadang kita merasa jadi korban, tapi perubahan positif cuma terjadi kalau kita tanggung jawab penuh atas hidup kita.
+Banyak orang merasa kejadian buruk di hidupnya terjadi karena faktor luar dan merasa jadi korban. Contohnya William James yang awalnya sedih dan putus asa karena masalah kesehatan dan kritik ayahnya, tapi setelah belajar filosofi yang bilang kita harus tanggung jawab penuh atas hidup sendiri, dia berubah dan akhirnya sukses besar di bidang psikologi. Jadi kalau kamu merasa jadi korban, coba ambil tanggung jawab atas hidupmu sendiri supaya bisa berubah jadi lebih baik.
+
+### Kita sering kabur kalau identitas kita terancam, tapi Buddhisme bisa bantu mengatasinya.
+Misalnya kamu seorang manajer senior yang bangga dengan posisi dan gaya hidupmu. Kalau ada kesempatan naik jabatan tapi risikonya besar banget sampai bisa kehilangan semuanya termasuk identitasmu, kebanyakan orang nggak berani ambil risiko itu karena takut kehilangan citra diri. Penulis sebut ini hukum "Manson’s Law of Avoidance". Tapi Buddhisme ngajarin bahwa identitas itu ilusi belaka dan kita harus belajar melepaskannya supaya bisa bebas melakukan apa yang benar-benar bikin bahagia tanpa terbelenggu oleh citra diri lama.
+
+### Kamu harus terima kesalahan dan rasa tidak aman kalau mau melihat perubahan positif dalam hidupmu.
+Kadang kita selalu merasa benar dan susah terima kritik atau kemungkinan salah. Contohnya teman penulis yang punya saudara yang terlalu kritis terhadap calon pengantin saudarinya sampai susah diajak berpikir terbuka. Biasanya rasa yakin selalu benar itu menutupi rasa tidak aman sendiri. Kalau kamu mau sehat mental dan bahagia, kamu harus siap terus mengevaluasi diri dan menerima kekuranganmu walau kadang itu gak nyaman.
+
+### Cinta romantis bisa merusak kalau kita gak belajar mengendalikannya.
+Cerita Romeo dan Juliet terkenal tapi tragis karena cinta mereka membawa kehancuran. Studi menunjukkan cinta romantis memicu efek di otak mirip narkoba; bikin senang tinggi lalu jatuh lagi lalu cari sensasi itu terus-menerus yang bikin sakit hati. Dulu orang nikah lebih karena kemampuan pasangan bukan cuma cinta gairah. Sekarang cinta romantis dianggap ideal tapi bisa menyebabkan patah hati kalau gak sehat. Cinta sehat adalah saat kedua pasangan benar-benar berkomitmen dan saling mendukung tanpa mencoba mengontrol satu sama lain.
+
+### Manusia takut mati sehingga mencoba hidup terus lewat warisan atau ketenaran.
+Kita semua suatu hari pasti mati, tapi seringkali kita nggak mau mikirin itu karena takut. Ernest Becker bilang manusia takut mati sampai berusaha menciptakan "proyek keabadian" seperti mencari ketenaran atau meninggalkan warisan supaya hidupnya terasa abadi. Tapi keinginan ini bisa bikin stres dan konflik sosial besar seperti perang. Solusinya adalah berhenti terlalu peduli sama ketenaran dan kekuasaan, fokus pada saat ini dan sebarkan kebahagiaan di sekitar kita.
+
+### Ringkasan akhir
+Pesan utama buku ini: Kita terlalu banyak mau ngelakuin dalam hidup sampai stres dan nggak bahagia. Belajarlah berhenti "ngasih perhatian" pada hal-hal yang bikin sakit kepala dan fokus pada hal-hal yang benar-benar penting buat kamu. Saran praktisnya: lupakan rasa takut ketinggalan (FOMO) dan belajar bilang "tidak" pada hal-hal yang nggak penting supaya kamu bisa fokus sama apa yang kamu mau banget. Contohnya CEO Mohamed El-Erian yang resign demi lebih banyak waktu bareng anaknya.

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Booklog - Post</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        #content h3 {
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container my-4">
+        <h1 class="mb-4 text-center">Booklog</h1>
+
+        <a href="index.html" class="btn btn-secondary mb-4">&larr; Back to Booklist</a>
+        <article id="content" class="border rounded p-4 bg-light shadow-sm fs-5" style="min-height: 300px;">
+            Loading...
+        </article>
+        <a href="index.html" class="btn btn-secondary mt-4">&larr; Back to Booklist</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        const content = document.getElementById("content");
+
+        const params = new URLSearchParams(window.location.search);
+        const file = params.get("file");
+
+        if (!file) {
+            content.textContent = "No post specified.";
+        } else {
+            const filename = `posts/${file}`;
+
+            fetch(filename)
+                .then(res => {
+                    if (!res.ok) throw new Error("Failed to load post.");
+                    return res.text();
+                })
+                .then(md => {
+                    content.innerHTML = marked.parse(md);
+                    document.title = `Booklog - ${file.replace(/\.md$/, '')}`;
+                })
+                .catch(err => {
+                    content.textContent = err.message;
+                });
+        }
+    </script>
+</body>
+
+</html>
