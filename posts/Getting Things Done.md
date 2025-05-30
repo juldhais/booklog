@@ -7,11 +7,6 @@ Untuk sampai ke titik itu, kamu perlu merasa punya kontrol atas semua kerjaan. N
 
 Di rangkuman buku ini, kamu bakal belajar gimana pakai GTD buat lebih rapi ngatur kerjaan, bahkan bisa nemu jawaban soal tujuan hidup kamu sendiri. Kalau udah punya rasa jelas dan kontrol kayak gini, produktivitas jadi naik dan stres pun turun karena kamu bakal merasa tenang.
 
-Kamu juga bakal tahu:
-- Kenapa otak kita sering dipakai buat hal yang salah,
-- Gimana ngatur ide dan mimpi jangka panjang kayak naik Everest,
-- Dan kenapa capek bukan alasan buat nggak produktif.
-
 ### Otak Kamu Jago Buat Mikir, Tapi Jelek Buat Ngafal.
 Sekarang, kerjaan makin ribet. Misalnya pagi-pagi kamu lagi nulis dokumen, terus ada email masuk suruh update antivirus, belum lagi tante nelpon suruh RSVP nikahan, dan bos dateng bawa kerjaan baru. Terus kamu tadi lagi ngapain ya?
 

@@ -3,11 +3,6 @@
 
 Toltec adalah masyarakat kuno yang sangat menghargai ilmu pengetahuan dan seni, serta memiliki tradisi spiritual yang kuat. Mereka punya banyak ajaran tentang kehidupan, yang ternyata masih relevan buat kita sekarang. Buku ini membahas bagaimana ide-ide Toltec bisa membantu kita jadi diri sendiri, membebaskan diri dari tekanan masyarakat, dan hidup lebih damai.
 
-Di sini kamu akan tahu:
-- Kenapa kita perlu melawan "mimpi kolektif" dari masyarakat
-- Kenapa menerima pujian atau kritik secara pribadi itu nggak baik
-- Kenapa kebanyakan anggapan tentang diri sendiri dan orang lain sering salah
-
 ### Sejak kecil kita diajarkan banyak aturan, dan akhirnya kita memaksakan aturan itu ke diri sendiri saat dewasa.
 Kita nggak pernah bisa milih bahasa ibu sendiri, begitu juga dengan aturan dan norma yang diajarkan oleh keluarga, sekolah, agama, dan lingkungan. Semua itu disebut "mimpi kolektif", yaitu aturan bersama yang nggak pernah kita pilih sendiri. Kita belajar apa itu baik-buruk, benar-salah, dan bagaimana perilaku yang diharapkan.
 

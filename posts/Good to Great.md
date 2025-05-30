@@ -1,7 +1,6 @@
 # Good to Great
 *Jim Collins*
 
-### Perusahaan yang berhasil naik dari “baik” ke “hebat” bisa mengajarkan cara melakukan lompatan yang sama.
 Buku *Good to Great* karya Jim Collins mencoba menjawab: bagaimana perusahaan bisa bertransformasi dari biasa-biasa saja jadi luar biasa? Collins dan timnya meneliti tiga kelompok perusahaan publik di Amerika selama lima tahun. Ada perusahaan yang awalnya biasa saja lalu jadi luar biasa, ada yang tetap biasa-biasa saja, dan ada juga yang sempat naik lalu turun lagi. Mereka menganalisis ribuan artikel dan wawancara eksekutif untuk mencari tahu apa yang membuat perusahaan “good-to-great” itu berbeda, supaya perusahaan lain juga bisa meniru langkah mereka.
 
 ### Menemukan “konsep landak” yang sederhana bisa jadi jalur jelas untuk diikuti.

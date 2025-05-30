@@ -5,11 +5,6 @@ Kadang kita sulit banget buat konsentrasi, apalagi sekarang ada Facebook, Instag
 
 Gimana cara melawan gangguan itu dan kembali fokus? Pertama, sadarilah kalau kamu nggak bisa mengerjakan semuanya. Pastikan juga tujuan-tujuanmu benar-benar milikmu sendiri. Setelah itu, saatnya bergerak! Untungnya, ada beberapa tips dan trik yang bisa bantu kamu sukses, dan nggak perlu waktu lama kok. Cuma butuh 18 menit.
 
-Di buku ini, kamu akan belajar:
-- Apa yang bisa dipelajari dari fitur “undo send” Gmail tentang hidup;
-- Apa yang bisa diajarkan jelly soal memilih;
-- Kenapa kamu harus menerima keunikan dirimu sendiri.
-
 ### Mulailah dengan Berhenti Sejenak dan Fokus pada Langkah Terbaik
 
 Kadang pas bangun pagi dan liat daftar tugas, rasanya berat banget. Cari waktu buat ngerjain semuanya tuh tantangan harian. Tapi dengan rencana yang tepat dan fokus penuh, kamu bisa jadi lebih produktif.

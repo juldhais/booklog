@@ -7,11 +7,6 @@ Cerita klasik seperti *Pinocchio* dan banyak dongeng atau cerita agama lainnya s
 
 Orang-orang dari generasi ke generasi selalu mencari nilai-nilai universal dan aturan hidup supaya hidup mereka terasa bermakna. Nah, tema-tema itulah yang jadi dasar Jordan B. Peterson saat membuat 12 aturan ini untuk membantu kita menjalani dunia yang makin kacau.
 
-Di buku ini, kamu akan menemukan:
-- Apa yang bisa kita pelajari dari lobster tentang percaya diri.
-- Pelajaran dari bunga teratai tentang mencari makna hidup.
-- Apa yang bisa kita pahami dari anak-anak skateboarder tentang sifat manusia.
-
 ### Hierarki itu wajar di mana-mana, jadi berdirilah tegak untuk memperbaiki posisi kamu.
 Kamu pasti pernah dengar istilah "pecking order" (urutan siapa yang lebih berkuasa) kan? Awalnya istilah ini muncul dari pengamatan ayam di kandang: ayam terkuat bisa makan duluan, yang lemah dapat sisa.
 

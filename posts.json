@@ -5,6 +5,8 @@
 ,
   { "title": "Atomic Habits  ", "filename": "Atomic Habits.md" }
 ,
+  { "title": "Deep Work", "filename": "Deep Work.md" }
+,
   { "title": "Getting Things Done", "filename": "Getting Things Done.md" }
 ,
   { "title": "Good to Great", "filename": "Good to Great.md" }
@@ -15,7 +17,15 @@
 ,
   { "title": "Mindset  ", "filename": "Mindset.md" }
 ,
+  { "title": "Six Thinking Hats", "filename": "Six Thinking Hats.md" }
+,
+  { "title": "The 4-Hour Workweek", "filename": "The 4-Hour Workweek.md" }
+,
   { "title": "The 7 Habits of Highly Effective People  ", "filename": "The 7 Habits of Highly Effective People.md" }
+,
+  { "title": "The Art of Happiness", "filename": "The Art of Happiness.md" }
+,
+  { "title": "The Art of War", "filename": "The Art of War.md" }
 ,
   { "title": "The Fifth Agreement", "filename": "The Fifth Agreement.md" }
 ,
@@ -23,7 +33,11 @@
 ,
   { "title": "The Lean Startup  ", "filename": "The Lean Startup.md" }
 ,
+  { "title": "The Personal MBA", "filename": "The Personal MBA.md" }
+,
   { "title": "The Power of Now", "filename": "The Power of Now.md" }
+,
+  { "title": "The Prince", "filename": "The Prince.md" }
 ,
   { "title": "The Psychology of Money", "filename": "The Psychology of Money.md" }
 ,
@@ -32,6 +46,10 @@
   { "title": "Think and Grow Rich  ", "filename": "Think and Grow Rich.md" }
 ,
   { "title": "Thinking, Fast and Slow  ", "filename": "Thinking Fast and Slow.md" }
+,
+  { "title": "Who Moved My Cheese?", "filename": "Who Moved My Cheese.md" }
+,
+  { "title": "Your Money or Your Life", "filename": "Your Money or Your Life.md" }
 ,
   { "title": "Zero to One ", "filename": "Zero to One.md" }
 ]

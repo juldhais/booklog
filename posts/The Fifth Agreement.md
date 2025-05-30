@@ -5,11 +5,6 @@ Apakah kamu hidup dengan bebas sesuai kebenaran tentang dirimu sendiri dan lingk
 
 Di ringkasan ini, kamu akan belajar gimana caranya kembali ke sifat alami manusia dengan memegang lima kesepakatan sederhana yang bisa membimbing hidupmu sehari-hari.
 
-Kamu juga akan tahu:
-- bagaimana kata “seharusnya” bisa bikin kita menghakimi dan menghukum diri sendiri,
-- kalau opini itu cuma kebenaran relatif,
-- dan kenapa berasumsi bisa bikin hidup penuh drama yang nggak perlu.
-
 ### Kita Kehilangan Sifat Alami Gara-Gara Proses “Penjinakan” dan Simbol-Simbol yang Kita Pelajari
 Setiap hari, pikiran kita dipengaruhi oleh lingkungan dan orang-orang di sekitar. Orang tua dan lingkungan ngajarin kita apa yang mereka tahu dan percaya, dan saat kita mengikuti, kita jadi “dijinakkan”.
 
