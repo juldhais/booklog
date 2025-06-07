@@ -13,6 +13,8 @@
 ,
   { "title": "Ego is the Enemy", "filename": "Ego is the Enemy.md" }
 ,
+  { "title": "Flow", "filename": "Flow.md" }
+,
   { "title": "Getting Things Done", "filename": "Getting Things Done.md" }
 ,
   { "title": "Good to Great", "filename": "Good to Great.md" }
@@ -22,6 +24,10 @@
   { "title": "How to Win Friends and Influence People", "filename": "How to Win Friends and Influence People.md" }
 ,
   { "title": "Ikigai", "filename": "Ikigai.md" }
+,
+  { "title": "Influence", "filename": "Influence.md" }
+,
+  { "title": "Lateral Thinking", "filename": "Lateral Thinking.md" }
 ,
   { "title": "Leaders Eat Last", "filename": "Leaders Eat Last.md" }
 ,
@@ -81,7 +87,13 @@
 ,
   { "title": "Thinking, Fast and Slow  ", "filename": "Thinking Fast and Slow.md" }
 ,
+  { "title": "Ultralearning", "filename": "Ultralearning.md" }
+,
+  { "title": "When", "filename": "When.md" }
+,
   { "title": "Who Moved My Cheese?", "filename": "Who Moved My Cheese.md" }
+,
+  { "title": "Willpower  ", "filename": "Willpower.md" }
 ,
   { "title": "Your Money or Your Life", "filename": "Your Money or Your Life.md" }
 ,
