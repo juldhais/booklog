@@ -80,5 +80,3 @@ Jadi tipsnya: sebelum nurut sama pihak berwenang, cek dulu apakah dia benar-bena
 Intinya, manusia cenderung memakai shortcut psikologis saat mengambil keputusan sehingga bisa dimanipulasi oleh para penjual/iklan/penipu demi kepentingan mereka sendiri. Prinsip-prinsip dasar seperti timbal-balik/kebaikan, kelangkaan/keterbatasan stok, konsistensi/komitmen publik, bukti sosial/nurut mayoritas, kesukaan/persahabatan, serta otoritas sangat sering dipakai dalam berbagai tipu muslihat sehari-hari.
 
 Karena shortcut itu memang kadang membantu kita hidup lebih efisien, tinggal kita belajar waspada dan membentengi diri agar tidak mudah termakan manipulasi oleh pihak-pihak tidak bertanggung jawab.
-
-Buat yang mau lebih jago negosiasi sehari-hari boleh lanjut baca buku "You Can Negotiate Anything" karangan Herb Cohen. Buku itu bahas gimana negosiasi terjadi di semua aspek kehidupan dan tips-tips memenangkannya tanpa harus merugikan pihak lain.
