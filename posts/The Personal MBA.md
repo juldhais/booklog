@@ -7,7 +7,7 @@ Banyak orang pikir kalau mau sukses di bisnis harus punya gelar, magang, atau mo
 
 Kamu pengen mulai bisnis tapi bingung dari mana? Sekolah bisnis kelihatannya menarik karena semua ilmu dan koneksi katanya bisa didapat di sana – tapi beneran itu tiket menuju sukses?
 
-Faktanya, sekolah bisnis itu MAHAL banget – 15 sekolah top di Amerika bisa sampai $53,208 per tahun (belum termasuk biaya lain-lain dan hidup!). Kalau ditotal sama biaya hidup dan kehilangan gaji karena nggak kerja, ada 8 sekolah bisnis di AS yang biayanya lebih dari $300.000.
+Faktanya, sekolah bisnis itu MAHAL banget – 15 sekolah top di Amerika bisa sampai $53,208 per tahun (belum termasuk biaya hidup dan lain-lain). Kalau ditotal sama biaya hidup dan kehilangan gaji karena nggak kerja, ada 8 sekolah bisnis di AS yang biayanya lebih dari $300.000.
 
 Kamu mungkin mikir nggak semua sekolah semahal itu. Memang sih, tapi rata-rata lulusan MBA punya utang $41.687, itu pun belum semua biaya dihitung.
 
@@ -129,5 +129,3 @@ Saat rekrut karyawan baru, jangan cuma nilai dari hasil wawancara aja. Cari tahu
 Saran bacaan lanjutan: *The $100 Startup* karya Chris Guillebeau
 
 Buku ini cocok buat yang pengen keluar dari kerja kantoran dan mulai bisnis sendiri modal kecil (bahkan $100). Isi bukunya penuh contoh nyata gimana cara mulai bisnis kecil-kecilan sampai sukses berkembang sendiri.
-
-Kalau ada feedback tentang ringkasan ini boleh banget email ke remember@blinkist.com dengan judul buku ini ya!
